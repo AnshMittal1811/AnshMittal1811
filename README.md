@@ -65,7 +65,7 @@
  -->
 ## GitHub Stats
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811)](https://github.com/anuraghazra/github-readme-stats)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true)
 
 ## Top Languages Used
 
