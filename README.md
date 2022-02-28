@@ -15,15 +15,15 @@
 - 🥅 2022 Goals: Learn as much as possible about Machine Learning in the domain of Computer Vision, and Signal processing
 - ⚡ Current obsession: I love to read and learn about all things sci-tech related, with my current obsession being Black holes and singularities, and using Neural Radiance for different views from satellites.
 
-<!-- 
+
 **Connect with me on: **
 
 ### Connect with me:
 
-[<img align="left" alt="ruch0401.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
-[<img align="left" alt="ruch0401 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter]
-[<img align="left" alt="ruch0401 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
-
+[<img align="left" alt="anshm18111996.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
+<!-- [<img align="left" alt="ansh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter] -->
+[<img align="left" alt="mittalansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
+<!-- 
 <br />
 
 ### Languages and Tools:
@@ -79,7 +79,6 @@
 
 
 ## Contact me
-
 [website]: https://anshm18111996.wixsite.com/website
 [linkedin]: https://linkedin.com/in/mittalansh/
 [github]: https://github.com/AnshMittal1811/
