@@ -23,6 +23,7 @@
 [<img align="left" alt="anshm18111996.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
 <!-- [<img align="left" alt="ansh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter] -->
 [<img align="left" alt="mittalansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
+
 <!-- 
 <br />
 
@@ -63,6 +64,8 @@
 <br />
 <br />
  -->
+ 
+ <br />
  
 ## GitHub Streak Card
 
