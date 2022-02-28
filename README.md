@@ -1,8 +1,8 @@
-### Hi there, I'm Ansh Mittal👋
+## Hi there, I'm Ansh Mittal👋
 
-# I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
+## I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
 
-# Actively looking for Machine Learning Intern roles for Summer 2022!!
+## Actively looking for Machine Learning Intern roles for Summer 2022!!
 
 - 🔭 I’m currently working on my challenge of 100 days of Machine Learning and AI
 - 🌱 I’m currently learning Applied Natural Language Processin and end-to-end Machine Learning, along with Astronomy
