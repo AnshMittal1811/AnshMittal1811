@@ -1,8 +1,8 @@
 ### Hi there, I'm Ansh Mittal👋
 
-## I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
+# I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
 
-## Actively looking for Machine Learning Intern roles for Summer 2022!!
+# Actively looking for Machine Learning Intern roles for Summer 2022!!
 
 - 🔭 I’m currently working on my challenge of 100 days of Machine Learning and AI
 - 🌱 I’m currently learning Applied Natural Language Processin and end-to-end Machine Learning, along with Astronomy
@@ -65,7 +65,7 @@
  -->
 ## GitHub Stats
 
-![![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811)](https://github.com/anuraghazra/github-readme-stats)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages Used
 
