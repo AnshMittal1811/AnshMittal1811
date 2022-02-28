@@ -67,6 +67,10 @@
 
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true)
 
+## GitHub Streak Card
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811)](https://git.io/streak-stats)
+
 ## Top Languages Used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact)
@@ -74,4 +78,7 @@
 [website]: https://anshm18111996.wixsite.com/website
 [linkedin]: https://linkedin.com/in/mittalansh/
 [github]: https://github.com/AnshMittal1811/
+
+
+
 
