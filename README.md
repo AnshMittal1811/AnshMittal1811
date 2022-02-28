@@ -16,7 +16,8 @@
 - ⚡ Current obsession: I love to read and learn about all things sci-tech related, with my current obsession being Black holes and singularities, and using Neural Radiance for different views from satellites.
 
 
-**Connect with me on: **
+**Connect with me on:**
+<br />
 [<img align="left" alt="anshm18111996.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
 <!-- [<img align="left" alt="ansh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter] -->
 [<img align="left" alt="mittalansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
