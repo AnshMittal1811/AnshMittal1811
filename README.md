@@ -1,5 +1,10 @@
 ### Hi there, I'm Ansh Mittal👋
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mittalansh/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ansh18mittal)  [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ansh.mittal1811/) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://usc.zoom.us/account) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com) ![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
+
+<!-- [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
+ -->
+
 ## I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
 
 ## Actively looking for Machine Learning Intern roles for Summer 2022!!
@@ -19,11 +24,11 @@
  ## Original Work related to GANs in Astronomy
 
 
-**Find me on:**
+<!-- **Find me on:**
 
 [<img align="left" alt="anshm18111996.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
 [<img align="left" alt="mittalansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
- 
+  -->
 ## GitHub Streak Card
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811)](https://git.io/streak-stats)
