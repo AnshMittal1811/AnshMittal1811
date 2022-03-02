@@ -15,8 +15,11 @@
 - 🥅 2022 Goals: Learn as much as possible about Machine Learning in the domain of Computer Vision, and Signal processing to apply this knowledge in Astronomy
 <!-- - ⚡ Current obsession: I love to read and learn about all things sci-tech related, with my current obsession being Black holes and singularities, and using Neural Radiance for different views from satellites.
  -->
+ 
+ ## Original Work related to GANs in Astronomy
 
 **Find me on:**
+
 [<img align="left" alt="anshm18111996.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
 [<img align="left" alt="mittalansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
  
