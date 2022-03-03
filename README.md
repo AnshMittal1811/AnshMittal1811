@@ -31,7 +31,7 @@
   -->
 ## GitHub Streak and Stats Card
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true) |   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811)](https://git.io/streak-stats)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true)    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811)](https://git.io/streak-stats)
  
 <!-- ## GitHub Stats
 
