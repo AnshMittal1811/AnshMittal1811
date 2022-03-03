@@ -37,6 +37,11 @@
 
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true)
  -->
+ 
+## This Week
+
+![Ansh Mittal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnshMittal1811&layout=compact)
+
 
 ## Top Languages Used
 
