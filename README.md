@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on my challenge of 100 days of Machine Learning and AI
 - 🌱 I’m currently learning Applied Natural Language Processin and end-to-end Machine Learning, for applications in Astronomy
 - 👯 I’m looking to collaborate on end-to-end projects which employ Machine Learning with Knowledge Distillation
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with learning more about Astronomy and Astrophysics
 - 💬 Ask me about Machine Learning, Computer Vision and their applications in Astronomy
 - 📫 How to reach me: +1 2135739188
 - 😄 Pronouns: He/Him/His
@@ -21,17 +21,17 @@
 <!-- - ⚡ Current obsession: I love to read and learn about all things sci-tech related, with my current obsession being Black holes and singularities, and using Neural Radiance for different views from satellites.
  -->
  
- ## Original Work related to GANs in Astronomy
-
+<!--  ## Original Work related to GANs in Astronomy
+ -->
 
 <!-- **Find me on:**
 
 [<img align="left" alt="anshm18111996.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
 [<img align="left" alt="mittalansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
   -->
-## GitHub Streak Card
+## GitHub Streak and Stats Card
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811)](https://git.io/streak-stats)
+[Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true) |   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811)](https://git.io/streak-stats)
  
 <!-- ## GitHub Stats
 
