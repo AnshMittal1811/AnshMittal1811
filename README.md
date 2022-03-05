@@ -45,7 +45,7 @@
  -->
 ## Top Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811)
 
 
 <!-- ## Contact me -->
