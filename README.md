@@ -48,7 +48,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811)
 
-
 <!-- ## Contact me -->
 [website]: https://anshm18111996.wixsite.com/website
 [linkedin]: https://linkedin.com/in/mittalansh/
