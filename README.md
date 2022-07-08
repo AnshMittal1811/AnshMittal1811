@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on my challenge of 200 days of Machine Learning and AI
 - 🌱 I’m currently learning Applied Natural Language Processin and end-to-end Machine Learning, for applications in Astronomy
-- 👯 I’m looking to collaborate on end-to-end projects which employ Machine Learning with Knowledge Distillation
+- 👯 I’m looking to collaborate on end-to-end projects which employ Machine Learning and Computer Vision with Knowledge Distillation
 - 🤔 I’m looking for help with learning more about Astronomy and Astrophysics
 - 💬 Ask me about Machine Learning, Computer Vision and their applications in Astronomy
 - 😄 Pronouns: He/Him/His
