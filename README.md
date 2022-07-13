@@ -5,7 +5,6 @@
 
 <!-- [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
  -->
-
 ## I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
 
 ## Actively looking for Machine Learning Intern roles for Summer 2022!!
