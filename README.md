@@ -9,7 +9,7 @@
 
 ## Actively looking for Machine Learning Intern roles for Summer 2022!!
 
-- 🔭 I’m currently working on my challenge of 200 days of Machine Learning and AI
+- 🔭 I’m currently working on my challenge of 300 days of Machine Learning and AI
 - 🌱 I’m currently learning Applied Natural Language Processin and end-to-end Machine Learning, for applications in Astronomy
 - 👯 I’m looking to collaborate on end-to-end projects which employ Machine Learning and Computer Vision with Knowledge Distillation
 - 🤔 I’m looking for help with learning more about Astronomy and Astrophysics
