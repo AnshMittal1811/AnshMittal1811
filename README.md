@@ -1,5 +1,8 @@
 ### Hi there, I'm Ansh Mittal👋
 
+[![Github](https://img.shields.io/github/followers/AnshMittal1811?label=Follow&style=social)](https://github.com/AnshMittal1811)
+
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mittalansh/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ansh18mittal)  [![](https://img.shields.io/static/v1?style=for-the-badge&label=website&message=AnshMittal&color=white)](https://anshm18111996.wixsite.com/website) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+12135739188) [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ansh.mittal1811/) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://usc.zoom.us/account) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com) ![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
