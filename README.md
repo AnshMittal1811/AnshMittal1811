@@ -53,8 +53,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact&langs_count=15&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="AnshMittal1811's Language stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=350 src=""github-readme-stats.vercel.app/api/wakatime?username=AnshMittal1811" alt="AnshMittal1811's Github stats" />
+<a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+<img height=350 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest" alt="AnshMittal1811's Leetcode stats" />
 </a>
 </div>
 
