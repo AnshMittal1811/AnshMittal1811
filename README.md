@@ -43,11 +43,8 @@
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true)
  -->
  
-<!-- ## This Week -->
+## Top Languages Used
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact)](https://github.com/AnshMittal1811/github-readme-stats)
- -->
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -60,16 +57,9 @@
 
 <br/>
 
-
-<!-- ![Ansh Mittal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnshMittal1811&layout=compact) -->
-
-## Top Languages Used
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811)
- -->
-<!-- ## Contact me -->
-[website]: https://anshm18111996.wixsite.com/website
-[linkedin]: https://linkedin.com/in/mittalansh/
-[github]: https://github.com/AnshMittal1811/
+## Contact me
+[website](https://anshm18111996.wixsite.com/website)
+[linkedin](https://linkedin.com/in/mittalansh/)
+[github](https://github.com/AnshMittal1811/)
 
 
