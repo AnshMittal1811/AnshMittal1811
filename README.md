@@ -7,9 +7,10 @@
  -->
 ## I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
 
-## Actively looking for Machine Learning Intern roles for Summer 2022!!
+## Actively looking for Computer Vision Co-op roles for Fall 2022, Spring 2023!!
+## And for Computer Vision Engineer roles for Summer 2023!!
 
-- 🔭 I’m currently working on my challenge of 300 days of Machine Learning and AI
+- 🔭 I’m currently working on my challenge of 365 days of Machine Learning and AI
 - 🌱 I’m currently learning Applied Natural Language Processin and end-to-end Machine Learning, for applications in Astronomy
 - 👯 I’m looking to collaborate on end-to-end projects which employ Machine Learning and Computer Vision with Knowledge Distillation
 - 🤔 I’m looking for help with learning more about Astronomy and Astrophysics
@@ -20,8 +21,6 @@
 <!-- - ⚡ Current obsession: I love to read and learn about all things sci-tech related, with my current obsession being Black holes and singularities, and using Neural Radiance for different views from satellites.
  -->
  <!-- - 📫 How to reach me: +1 2135739188 -->
-
- 
 
 <!--  ## Original Work related to GANs in Astronomy
  -->
