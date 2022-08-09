@@ -43,7 +43,7 @@
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true)
  -->
  
-## Top Languages Used
+## Top Languages Used and Leetcode Stats
 
 <!-- Light Mode -->
 <div align="center"> 
