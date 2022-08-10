@@ -86,6 +86,11 @@
 6. Intern **(UVA Institute)**
 7. Data Science Intern **(Delhi e-Governance Society)**
 
+## Projects and Technologies
+1. Augmented Reality
+{% gist 7bcd4260e8c3aca735e52cde3d3a5d74 %}
+
+
 ## GitHub Streak and Stats Card
 
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact) [![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)](https://git.io/streak-stats)
