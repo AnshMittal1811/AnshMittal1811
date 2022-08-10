@@ -8,7 +8,9 @@
 
 <!-- [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
  -->
-### I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=450&lines=I'm+a+MS+Computer+Science+graduate+student+,+Machine+Learning+Enthusiast+,+%26+Researcher;I+write+articles+on+medium/@anshm18111996)](https://git.io/typing-svg)
+
+I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
 
 ### Actively looking for Computer Vision Co-op roles for Fall 2022, Spring 2023!!
 ### And for Computer Vision Engineer roles for Summer 2023!!
