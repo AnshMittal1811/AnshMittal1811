@@ -92,8 +92,8 @@
 <img height=200 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest&animation=true&theme=wtf" alt="AnshMittal1811's Leetcode stats" />
 </a>
 </div>
-
-<br/>
+<br />
+<br />
 
 ## Activity Last Month
 
