@@ -83,7 +83,7 @@
 
 ## GitHub Streak and Stats Card
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&hide=jupyter-notebook&count_private=true&layout=compact) [![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)](https://git.io/streak-stats)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact) [![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)](https://git.io/streak-stats)
 
   
 ## Top Languages Used and Leetcode Stats
@@ -91,10 +91,10 @@
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact&langs_count=15&animation=true&hide=jupyter-notebook&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="AnshMittal1811's Language stats" />
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact&langs_count=15&animation=true&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="AnshMittal1811's Language stats" />
 </a>
 <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
-<img height=200 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest&animation=true" alt="AnshMittal1811's Leetcode stats" />
+<img height=200 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest&animation=true&theme=wtf" alt="AnshMittal1811's Leetcode stats" />
 </a>
 </div>
 
