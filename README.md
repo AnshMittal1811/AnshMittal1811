@@ -45,12 +45,7 @@
 
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true) [![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true)](https://git.io/streak-stats)
 
- 
-<!-- ## GitHub Stats
-
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true)
- -->
- 
+  
 ## Top Languages Used and Leetcode Stats
 
 <!-- Light Mode -->
@@ -64,13 +59,7 @@
 </div>
 
 <br/>
-<!-- 
-## Contact me
-[website](https://anshm18111996.wixsite.com/website)
-[linkedin](https://linkedin.com/in/mittalansh/)
-[github](https://github.com/AnshMittal1811/)
 
- -->
  
 ## ✉️ Find me on:
 
@@ -83,3 +72,11 @@
 
 <br />
 
+
+<!-- 
+## Contact me
+[website](https://anshm18111996.wixsite.com/website)
+[linkedin](https://linkedin.com/in/mittalansh/)
+[github](https://github.com/AnshMittal1811/)
+
+ -->
