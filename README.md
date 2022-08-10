@@ -55,7 +55,7 @@
  
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tensorflow/tensorflow.png" align="left" alt="Tensorflow" width="26px"  />
  
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/keras/keras.png" align="left" alt="Keras" width="26px"  />
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/pytorch/pytorch.png" align="left" alt="PyTorch" width="26px"  />
  
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terraform/terraform.png" align="left" alt="Teraform" width="26px"  />
 
