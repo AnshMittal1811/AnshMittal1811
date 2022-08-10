@@ -55,7 +55,7 @@
  
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jenkins/jenkins.png" align="left" alt="Jenkins" width="26px"  />
  
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/teraform/teraform.png" align="left" alt="Teraform" width="26px"  />
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terraform/terraform.png" align="left" alt="Teraform" width="26px"  />
 
 </p>
 <br />
