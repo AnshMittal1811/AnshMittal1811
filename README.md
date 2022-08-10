@@ -76,7 +76,8 @@ I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
  <a href="https://anshm18111996.wixsite.com/website" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/mittalansh" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a> 
  <a href="https://scholar.google.com/citations?user=rG4ZgtMAAAAJ" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" alt="Scholar" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://public.tableau.com/app/profile/ansh.mittal" target="_blank" rel="noopener noreferrer"> <img src=" https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" alt="Tableau" height="30" style="vertical-align:top; margin:4px"></a>
+   <a href="https://medium.com/@anshm18111996" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://public.tableau.com/app/profile/ansh.mittal" target="_blank" rel="noopener noreferrer"> <img src=" https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" alt="Tableau" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:anshm18111996@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
  
 </p>
