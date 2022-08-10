@@ -8,7 +8,7 @@
 
 <!-- [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=450&lines=I'm+a+MS+Computer+Science+graduate+student+%2C+Machine+Learning+Enthusiast+%2C+%26+Researcher;I+write+articles+on+medium/@anshm18111996)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=900&lines=I'm+a+MS+Computer+Science+graduate+student+%2C+Machine+Learning+Enthusiast+%2C+%26+Researcher;I+write+articles+on+medium/@anshm18111996)](https://git.io/typing-svg)
 
 I'm an MS Computer Science graduate student, ML Enthusiast, and Researcher!!
 
