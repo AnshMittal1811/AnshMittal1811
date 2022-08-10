@@ -55,8 +55,6 @@
  
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tensorflow/tensorflow.png" align="left" alt="Tensorflow" width="26px"  />
  
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/pytorch/pytorch.png" align="left" alt="PyTorch" width="26px"  />
- 
  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/django/django.png" align="left" alt="Django" width="26px"  />
  
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" align="left" alt="linux" width="26px"  />
@@ -66,6 +64,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/scala/scala.png" align="left" alt="Scala" width="26px"  />
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/scikit-learn/scikit-learn.png" align="left" alt="scikit-learn" width="26px"  />
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/unity/unity.png" align="left" alt="unity" width="26px"  />
+ 
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/unreal-engine/unreal-engine.png" align="left" alt="unreal-engine" width="26px"  />
  
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terraform/terraform.png" align="left" alt="Teraform" width="26px"  />
