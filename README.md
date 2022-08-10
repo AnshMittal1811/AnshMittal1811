@@ -94,7 +94,7 @@
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact&langs_count=15&animation=true&hide=jupyter-notebook&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="AnshMittal1811's Language stats" />
 </a>
 <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
-<img height=200 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest&animation=true&theme=wtf" alt="AnshMittal1811's Leetcode stats" />
+<img height=200 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest&animation=true" alt="AnshMittal1811's Leetcode stats" />
 </a>
 </div>
 
