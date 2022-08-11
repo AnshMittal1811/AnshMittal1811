@@ -14,7 +14,7 @@
 ### And for Computer Vision Engineer roles for Summer 2023!!
 
 - 🔭 I’m currently working on my challenge of 365 days of Machine Learning and AI
-- 🌱 I’m currently learning Applied Natural Language Processin and end-to-end Machine Learning, for applications in Astronomy
+- 🌱 I’m currently working on end-to-end Machine Learning, for applications in Astronomy
 - 👯 I’m looking to collaborate on end-to-end projects which employ Machine Learning and Computer Vision with Knowledge Distillation
 - 🤔 I’m looking for help with learning more about Astronomy and Astrophysics
 - 💬 Ask me about Machine Learning, Computer Vision and their applications in Astronomy
