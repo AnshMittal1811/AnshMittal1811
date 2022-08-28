@@ -8,7 +8,7 @@
 
 <!-- [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=900&lines=I'm+a+MS+Computer+Science+graduate+student%2C+Machine+Learning+Enthusiast%2C+%26+Researcher;I+write+articles+on+medium/@anshm18111996)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=900&lines=I'm+a+MS+Computer+Science+graduate+student%2C+Machine+Learning+Enthusiast%2C+%26+Researcher;I+am+also+an+amateur astronomer+and+deeply_interested+in+Astrobiology+and+Astrophysics)](https://git.io/typing-svg)
 
 ### Actively looking for Computer Vision Co-op roles for Fall 2022, Spring 2023!!
 ### And for Computer Vision Engineer roles for Summer 2023!!
