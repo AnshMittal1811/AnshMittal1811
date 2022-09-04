@@ -13,11 +13,12 @@
 ### Actively looking for Computer Vision Co-op roles for Fall 2022, Spring 2023!!
 ### And for Computer Vision Engineer roles for Summer 2023!!
 
-- 🔭 I’m currently working on my challenge of 365 days of Machine Learning and AI
-- 🙋‍♂️ I'm also reading research papers related to Computer Vision, Natural Language Processing, and Astronomy daily.
+- 🔭 Currently about to end 250 days of Machine Learning and AI
+- 📫 Read a research paper with me everyday about NLP and Computer Vision
+- 🙋‍♂️ I'm also reading research papers related to Computer Vision, Natural Language Processing, and Astronomy daily
 - 🌱 I’m currently working on end-to-end Machine Learning and creating a PyPI package for GANs
 - 👯 I’m looking to collaborate on end-to-end projects which employ Machine Learning and Computer Vision with Knowledge Distillation
-- 🤔 I’m looking for help with learning Japanese, Spanish
+- 🤔 I’m looking for help with learning Japanese
 - 💬 Ask me about ML, Computer Vision (NeRFs, GANs, ViTs, CNNs)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Sunset on Mars appears to be Blue rather than Yellowish-Red at Earth
