@@ -10,7 +10,7 @@
  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=900&lines=I+am+a+Computer+Scientist+interested+in+ML%2C+Computer+Vision%2C+and+Language+Processing;I+am+also+an+Amateur+Astronomer+and+interested+in+Astrophysics+and+Astrobiology)](https://git.io/typing-svg)
 
-### Actively looking for Computer Vision Co-op roles for Fall 2022, Spring 2023!!
+### Actively looking for Computer Vision Co-op and Full-time roles for Spring 2023!!
 ### And for Computer Vision Engineer roles for Summer 2023!!
 
 - 🔭 Currently about to end 250 days of Machine Learning and AI
