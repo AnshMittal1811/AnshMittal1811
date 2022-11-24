@@ -13,7 +13,7 @@
 ### Actively looking for Computer Vision Co-op and Full-time roles for Spring 2023!!
 ### And for Computer Vision Engineer roles for Summer 2023!!
 
-- 🔭 Currently about to end 250 days of Machine Learning and AI
+- 🔭 Ended 250 days of Machine Learning and AI
 - 📫 Read a research paper with me everyday about NLP and Computer Vision
 - 🙋‍♂️ I'm also reading research papers related to Computer Vision, Natural Language Processing, and Astronomy daily
 - 🌱 I’m currently working on end-to-end Machine Learning and creating a PyPI package for GANs
