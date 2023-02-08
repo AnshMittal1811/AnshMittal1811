@@ -22,7 +22,7 @@
 - 💬 Ask me about ML, Computer Vision (NeRFs, GANs, ViTs, CNNs)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Sunset on Mars appears to be Blue rather than Yellowish-Red at Earth
-- 🥅 December 2022 Goals: Complete the Neural Radiance Fields survey paper (by including all the papers read related to the field) and get it published in IJCV
+- 🥅 February 2023 Goals: Complete the Neural Radiance Fields survey paper (by including all the papers read related to the field) and get it published in IJCV
 
 <!-- I'm an Astronomy Lover and can talk for a day about Astronomy with anyone who is interested in the field,, Learn as much as possible about Machine Learning in the domain of Computer Vision, and Signal processing to apply this knowledge in Astronomy -->
 <!-- - ⚡ Current obsession: I love to read and learn about all things sci-tech related, with my current obsession being Black holes and singularities, and using Neural Radiance for different views from satellites.
