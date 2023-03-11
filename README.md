@@ -121,7 +121,7 @@
 ## Activity Last Month
 
 <!-- [![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnshMittal1811&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-[![Ansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshMittal1811)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshMittal1811&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Last Month and All Time languages
 
