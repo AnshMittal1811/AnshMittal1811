@@ -102,8 +102,8 @@
 
 ## GitHub Streak and Stats Card
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact)[![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)](https://git.io/streak-stats)
-<!--- [![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)](https://git.io/streak-stats) ---> 
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact)[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)](https://git.io/streak-stats)
+<!--- [![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)](https://git.io/streak-stats) ---> 
 
 ## Top Languages Used and Leetcode Stats
 
