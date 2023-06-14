@@ -103,8 +103,8 @@
 
 ## GitHub Streak and Stats Card
 
-![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)
-<!--- ](https://git.io/streak-stats) [GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact) [Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact) [!](https://git.io/streak-stats) ---> 
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)
+<!--- ](https://git.io/streak-stats)  [Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact) [!](https://git.io/streak-stats) ---> 
 
 ## Top Languages Used and Leetcode Stats
 
@@ -122,11 +122,11 @@
 
 
 
-## Activity Last Month
+<!-- ## Activity Last Month
 
 <!-- [![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnshMittal1811&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 [![Ansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshMittal1811&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ -->
 ## Last Month and All Time languages
 
 <!-- | ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
