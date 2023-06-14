@@ -109,25 +109,6 @@
 
 <!--- ](https://git.io/streak-stats) ![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)  [!](https://git.io/streak-stats) ---> 
 
-
-<!-- ## Top Languages Used and Leetcode Stats
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact&langs_count=15&animation=true&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="AnshMittal1811's Language stats" />
-</a> 
-<a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
- </a>
-</div>
-<br />
-<br />-->
-
-
-<!-- ## Activity Last Month
-
-[![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnshMittal1811&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshMittal1811&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- -->
 ## Last Month and All Time languages
 
 <!-- | ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
@@ -159,5 +140,25 @@
 [website](https://anshm18111996.wixsite.com/website)
 [linkedin](https://linkedin.com/in/mittalansh/)
 [github](https://github.com/AnshMittal1811/)
+
+
+<!-- ## Top Languages Used and Leetcode Stats
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact&langs_count=15&animation=true&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="AnshMittal1811's Language stats" />
+</a> 
+<a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+ </a>
+</div>
+<br />
+<br />-->
+
+
+<!-- ## Activity Last Month
+
+[![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnshMittal1811&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshMittal1811&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ -->
 
  -->
