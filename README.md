@@ -115,11 +115,11 @@
 <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card"> -->
  
 <img height=200 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest&animation=true&theme=wtf" alt="AnshMittal1811's Leetcode stats" />
-</a>
+<!-- </a>
 </div>
 <br />
 <br />
-
+ -->
 
 <!-- ## Activity Last Month
 
