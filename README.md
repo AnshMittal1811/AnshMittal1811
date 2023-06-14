@@ -142,8 +142,7 @@
 [github](https://github.com/AnshMittal1811/)
 
 
-<!-- ## Top Languages Used and Leetcode Stats
-<!-- Light Mode -->
+## Top Languages Used and Leetcode Stats
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact&langs_count=15&animation=true&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="AnshMittal1811's Language stats" />
@@ -151,14 +150,11 @@
 <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
  </a>
 </div>
-<br />
-<br />-->
 
 
-<!-- ## Activity Last Month
+## Activity Last Month
 
 [![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnshMittal1811&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Ansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshMittal1811&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- -->
 
- -->
+-->
