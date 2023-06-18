@@ -14,16 +14,16 @@
 ### And for Computer Vision Engineer roles for Summer 2023!!
 
 - 😄 Pronouns: He/Him/His
-- 🔭 Ended 250 days of Machine Learning and AI in 2022
-- 📫 Read a research paper with me everyday about NLP and Computer Vision (to update on github.io)
-- 🙋‍♂️ I'm also reading research papers related to Astronomy daily
-<!-- - 🌱 I’m currently working on end-to-end Machine Learning and creating a PyPI package for GANs -->
+- 🔭 Reading about MLSys this year and writing blogs for the same
+- 📫 Read a research paper with me everyday about NLP and Computer Vision
+- 🙋‍♂️ Following Astronomy Research every week
+<!-- - 🌱 I’m currently working on end-to-end Machine Learning and creating a PyPI package -->
 - 👯 I’m looking to collaborate on end-to-end projects which employ Machine Learning and Computer Vision
-- 🤔 I’ve started learning Japanese and German
-- 💬 Ask me about ML, Computer Vision (NeRFs, GANs, ViTs, CNNs) and Natural Language Processing (Learning-to-Rank, Large Language Models)
+- 🤔 Started learning Japanese and German
+- 💬 Ask me about ML, Computer Vision (NeRFs, GANs, ViTs, CNNs) and Natural Language Processing (GPT3.5, Instruct Tuning, Large Language Models)
 - ⚡ Fun fact: Sunset on Mars appears to be Blue rather than Yellowish-Red at Earth
-- 🥅 March 2023 Goals: Complete the Neural Radiance Fields survey paper (by including all the papers read related to the field) and submit it to arxiv
-- Reading a Paper from MLSys conference and working on Python basics daily for 2023
+- 🥅 June 2023 Goals: Getting the Neural Radiance Fields survey paper (by including all the papers read related to the field) and submit it to arxiv
+<!-- - Reading a Paper from MLSys conference and working on Python basics daily for 2023 -->
 
 <!-- I'm an Astronomy Lover and can talk for a day about Astronomy with anyone who is interested in the field,, Learn as much as possible about Machine Learning in the domain of Computer Vision, and Signal processing to apply this knowledge in Astronomy -->
 <!-- - ⚡ Current obsession: I love to read and learn about all things sci-tech related, with my current obsession being Black holes and singularities, and using Neural Radiance for different views from satellites.
