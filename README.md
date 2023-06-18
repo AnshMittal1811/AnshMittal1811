@@ -13,7 +13,7 @@
 ### Actively looking for Computer Vision Co-op and Full-time roles for Spring 2023!!
 ### And for Computer Vision Engineer roles for Summer 2023!!
 
-- 😄 Pronouns: He/Him/His
+<!-- - 😄 Pronouns: He/Him/His--->
 - 🔭 Reading about MLSys this year and writing blogs for the same
 - 📫 Read a research paper with me everyday about NLP and Computer Vision
 - 🙋‍♂️ Following Astronomy Research every week
