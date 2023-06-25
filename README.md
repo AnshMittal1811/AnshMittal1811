@@ -85,14 +85,15 @@
 </p>
 
 ## Work Experience
-
-1. Machine Learning Engineer Intern **(Guidewire Software)**
-2. Graduate Research Assistant **(USC Information Sciences Institute)**
-3. Student Research Worker **(USC Marshall School of Business)**
-4. Data Scientist **(Sociometrik Infer Pvt Ltd)**
-5. Research Associate **(Indian Institute of Technology Delhi)**
-6. Intern **(UVA Institute)**
-7. Data Science Intern **(Delhi e-Governance Society)**
+1. AI/ML Research Engineer (Co-op) **(KNOW Systems Corp)**
+2. Student Researcher **(USC Integrated Media Systems Center lab)**
+3. Machine Learning Engineer Intern **(Guidewire Software)**
+4. Graduate Research Assistant **(USC Information Sciences Institute)**
+5. Student Research Worker **(USC Marshall School of Business)**
+6. Data Scientist **(Sociometrik Infer Pvt Ltd)**
+7. Research Associate **(Indian Institute of Technology Delhi)**
+8. Intern **(UVA Institute)**
+9. Data Science Intern **(Delhi e-Governance Society)**
 
 ## Projects and Technologies
 1. [Augmented Reality](https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74)
