@@ -8,7 +8,10 @@
 
 <!-- [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=00F72F&background=000000width=900&lines=I+am+a+Computer+Scientist+interested+in+ML%2C+Computer+Vision%2C+and+Language+Processing;I+am+also+an+Amateur+Astronomer+and+interested+in+Astrophysics+and+Astrobiology)](https://git.io/typing-svg)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&font=Fira+Code&pause=1000&color=00F72F&background=000000&width=900&lines=I+am+a+Computer+Scientist+interested+in+ML%2C+Computer+Vision%2C+and+Language+Processing;I+am+also+an+Amateur+Astronomer+and+interested+in+Astrophysics+and+Astrobiology)](https://git.io/typing-svg)
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=00F72F&background=000000width=900&lines=I+am+a+Computer+Scientist+interested+in+ML%2C+Computer+Vision%2C+and+Language+Processing;I+am+also+an+Amateur+Astronomer+and+interested+in+Astrophysics+and+Astrobiology)](https://git.io/typing-svg) -->
 
 ### Actively looking for Computer Vision Co-op and Full-time roles for Spring 2023!!
 ### And for Computer Vision Engineer roles for Summer 2023!!
