@@ -92,7 +92,7 @@
 5. Student Research Worker **(USC Marshall School of Business)**
 6. Data Scientist **(Sociometrik Infer Pvt Ltd)**
 7. Research Associate **(Indian Institute of Technology Delhi)**
-8. Intern **(UVA Institute)**
+8. Web Development Engineer **(UVA Institute)**
 9. Data Science Intern **(Delhi e-Governance Society)**
 
 ## Projects and Technologies
