@@ -123,6 +123,20 @@
 | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" height="300px"></a> |
  -->
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnshMittal1811&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnshMittal1811&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+
+
 
 ## ✉️ Find me on:
 
