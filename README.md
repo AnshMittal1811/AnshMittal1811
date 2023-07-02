@@ -116,9 +116,9 @@
 
 <!--- ](https://git.io/streak-stats) ![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)  [!](https://git.io/streak-stats) ---> 
 
-## Last Month and All Time languages
+<!-- ## Last Month and All Time languages
 
-<!-- | ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
+ | ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" height="300px"></a> |
  -->
