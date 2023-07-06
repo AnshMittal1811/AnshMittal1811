@@ -100,22 +100,33 @@
 | 🤔Leetcode              | 🔝 Top Contributed Repo  |
 |:------------------------:|:------------------------:|
 | <img height=200 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest&animation=true&theme=wtf" alt="AnshMittal1811's Leetcode stats" /> |  ![](https://github-contributor-stats.vercel.app/api?username=AnshMittal1811&limit=5&theme=dark&combine_all_yearly_contributions=true) |
-
-
-<!--- ](https://git.io/streak-stats) ![Github Stream](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true&layout=compact)  [!](https://git.io/streak-stats) ---> 
-
-<!-- ## Last Month and All Time languages
-
- | ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" height="300px"></a> |
- -->
-
-# 🏆Trophies
+ 
+## 🏆Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnshMittal1811&theme=nord&no-frame=false&no-bg=false&margin-w=4)  
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+
+<!-- ## Last Month and All Time languages
+ <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" height="300px"></a>
+<a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> 
+| ⏰ Past month | ⌛️ All time | --->
+
+
+## Most Used Language
+| ![Top Langs-Last Month](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811&size_weight=0.5&count_weight=0.5&langs_count=12) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811&layout=donut-vertical&langs_count=40) |
+| :------------: | :--------------: |
+
+
+
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact&hide_title=true&langs_count=30&&hide=jupyter%20notebook)
+
+<style>
+    .language {
+        transform: scale(calc(1 + var(--scale) * 0.2));
+    }
+</style> -->
 
 
 <!--- ## 😂 Random Dev Meme
