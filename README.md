@@ -13,6 +13,10 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=00F72F&background=000000width=900&font=Fira+Code&lines=I+am+a+Computer+Scientist+interested+in+ML%2C+Computer+Vision%2C+and+Language+Processing;I+am+also+an+Amateur+Astronomer+and+interested+in+Astrophysics+and+Astrobiology)](https://git.io/typing-svg) -->
 
+<h3>Profile Views</h3>
+ <p align="left"> <img src="https://profile-counter.glitch.me/AnshMittal1811/count.svg" alt="AnshMittal1811" /> </p>
+
+
 ### Actively looking for Computer Vision Co-op and Full-time roles for Spring 2023!!
 ### And for Computer Vision Engineer roles for Summer 2023!!
 
