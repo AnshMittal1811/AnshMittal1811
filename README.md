@@ -1,25 +1,26 @@
 ### Hi there, I'm Ansh Mittal👋
 
-## ✉️ Find me on:
+[![Github](https://img.shields.io/github/followers/AnshMittal1811?label=Follow&style=social)](https://github.com/AnshMittal1811)   [![Github](https://img.shields.io/github/stars/AnshMittal1811?label=Stars&style=social)](https://github.com/AnshMittal1811)   
+
+
+
+### ✉️ Find me on:
 
 <p align="center"> 
- <a href="https://anshm18111996.wixsite.com/website" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" style="vertical-align:top; margin:7px"> </a>
- <a href="https://linkedin.com/in/mittalansh" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:7px"></a> 
- <a href="https://scholar.google.com/citations?user=rG4ZgtMAAAAJ" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" alt="Scholar" height="30" style="vertical-align:top; margin:7px"></a>
+   <a href="https://anshm18111996.wixsite.com/website" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" style="vertical-align:top; margin:7px"> </a>
+   <a href="https://linkedin.com/in/mittalansh" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:7px"></a> 
+   <a href="https://scholar.google.com/citations?user=rG4ZgtMAAAAJ" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" alt="Scholar" height="30" style="vertical-align:top; margin:7px"></a>
    <a href="https://medium.com/@anshm18111996" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" height="30" style="vertical-align:top; margin:7px"></a>
    <a href="https://www.kaggle.com/ansh18mittal" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" alt="Kaggle" height="30" style="vertical-align:top; margin:7px"></a>
    <a href="https://www.kaggle.com/ansh18mittal" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" alt="GitLab" height="30" style="vertical-align:top; margin:7px"></a> 
-   <a href="https://public.tableau.com/app/profile/ansh.mittal" target="_blank" rel="noopener noreferrer"> <img src=" https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" alt="Tableau" height="30" style="vertical-align:top; margin:7px"></a>
-   <a href="mailto:anshm18111996@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="50" style="vertical-align:top; margin:7px"></a>
+   <a href="https://public.tableau.com/app/profile/ansh.mittal" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" alt="Tableau" height="30" style="vertical-align:top; margin:7px"></a>
+   <a href="mailto:anshm18111996@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:7px"></a>
 </p>
 
 <br />
 
 
-[![Github](https://img.shields.io/github/followers/AnshMittal1811?label=Follow&style=social)](https://github.com/AnshMittal1811)   [![Github](https://img.shields.io/github/stars/AnshMittal1811?label=Stars&style=social)](https://github.com/AnshMittal1811)   
-
-
-<code>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mittalansh/)</code> <code>[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ansh18mittal)</code>  <code>[![](https://img.shields.io/static/v1?style=for-the-badge&label=website&message=AnshMittal&color=white)](https://anshm18111996.wixsite.com/website)</code> <code>[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+12135739188)</code> <code>[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ansh.mittal1811/)</code> <code>[![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://usc.zoom.us/account)</code> <code>[![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com)</code> <code>![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</code>
+ <code>[![](https://img.shields.io/static/v1?style=for-the-badge&label=website&message=AnshMittal&color=white)](https://anshm18111996.wixsite.com/website)</code> <code>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mittalansh/)</code> <code>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mittalansh/)</code> <code>[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ansh18mittal)</code>  <code>[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+12135739188)</code> <code>[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ansh.mittal1811/)</code> <code>[![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://usc.zoom.us/account)</code> <code>[![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com)</code> <code>![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</code>
 
 
 <!-- [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
