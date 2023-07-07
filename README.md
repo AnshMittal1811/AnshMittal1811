@@ -89,10 +89,10 @@
 <br />
  -->
  
-<!--- ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact&include_all_commits=true) --->
+<!---  --->
 ## GitHub Streak and Stats Card
 <!--- ![GitHub Streak Card](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)  --->
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811)](https://git.io/streak-stats) | |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811)](https://git.io/streak-stats) | ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact&include_all_commits=true) |
 |:------------------------:|:------------------------:|
 
 
