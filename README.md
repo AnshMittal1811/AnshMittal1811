@@ -34,8 +34,7 @@
  <p align="left"> <img src="https://profile-counter.glitch.me/AnshMittal1811/count.svg" alt="AnshMittal1811" /> </p>
 
 
-### Actively looking for Computer Vision Co-op and Full-time roles for Spring 2023!!
-### And for Computer Vision Engineer roles for Summer 2023!!
+### Actively looking for Machine Learning, Software Development Engineer, Natural Language Processing, AI, and Computer Vision Engineer roles for Summer 2023!!
 
 <!-- - 😄 Pronouns: He/Him/His--->
 - 🔭 Reading about MLSys this year and writing blogs for the same
