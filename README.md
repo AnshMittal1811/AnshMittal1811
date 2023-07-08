@@ -43,7 +43,7 @@
 <!-- - 🌱 I’m currently working on end-to-end Machine Learning and creating a PyPI package -->
 - 👯 I’m looking to collaborate on end-to-end projects which employ ML and Computer Vision
 - 🤔 Started learning Japanese and German
-- 💬 Ask me about ML, Computer Vision (NeRFs, GANs, ViTs, CNNs) and Natural Language Processing (GPT3.5, Instruct Tuning, Large Language Models)
+- 💬 Ask me about ML, Computer Vision (NeRFs, GANs, ViTs, CNNs) and Natural Language Processing (GPT3.5, Instruct Tuning, LLMs)
 - ⚡ Fun fact: Sunset on Mars appears to be Blue rather than Yellowish-Red at Earth
 - 🥅 June 2023 Goals: Getting the Neural Radiance Fields survey paper (by including all the papers read related to the field) and submit it to arxiv
 <!-- - Reading a Paper from MLSys conference and working on Python basics daily for 2023 -->
