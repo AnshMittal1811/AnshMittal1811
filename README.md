@@ -98,6 +98,8 @@
 
 ## Projects and Technologies
 1. [Augmented Reality](https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74)
+2. [ML.NET and Spark.Net for C# ](https://gist.github.com/AnshMittal1811/9d3b98acbf7bcff3134b22d85510539f)
+
 <!-- <script src="https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74" />
 
 <br />
