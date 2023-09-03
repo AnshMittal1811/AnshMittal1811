@@ -113,8 +113,8 @@
  -->
  
  ## GitHub Streak and Stats Card
-<!--- ![GitHub Streak Card](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)  ![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)  ](https://git.io/streak-stats)  --->
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true) | ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact&include_all_commits=true&show=reviews,discussions_started,discussions_answered) | 
+<!--- ![GitHub Streak Card](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact) (https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true)  ![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)  ](https://git.io/streak-stats)  --->
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact) | ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact&include_all_commits=true&show=reviews,discussions_started,discussions_answered) | 
 |:------------------------:|:------------------------:|  
 
 
