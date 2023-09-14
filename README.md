@@ -123,58 +123,58 @@
      - Document GPU algorithms, NeRF adaptations, and system architectures comprehensively for both internal use and potential external publications
      - Represent the startup at GPU and computer vision conferences, fostering collaborations and staying updated on industry advancements
 2. AI/ML Research Engineer (Co-op) **(KNOW Systems Corp)**
-   • Developed a personalized GenerativeQA using Prompt Engineering with GPT-J and GPT-NeoX; METEOR: 22.34 (2%↑); STS: 0.87 (3.5%↑) and integrated Unit Tests for the GitHub Repo (FastAPI for APIs)
-   • Compared different model-based approaches using metrics (BLEU, ROUGE, METEOR, STS) for loss functions (CE, Triplet)
-   • Prepared a PoC for 3D Human-based Avatar (Using NeurMan and Neural Head Avatars) and Voice-enabled Conversation (using text-to-Speech) for Generated Prompts and integrated with FastAPI
-   • Developed a personalized GenerativeQA using Prompt Engineering with GPT-J and GPT-NeoX; METEOR: 22.34 (2%↑); STS: 0.87 (3.5%↑) and integrated Unit Tests for the GitHub Repo (FastAPI for APIs)
-   • Compared different model-based approaches using metrics (BLEU, ROUGE, METEOR, STS) for loss functions (CE, Triplet)
-   • Prepared a PoC for 3D Human-based Avatar (Using NeurMan and Neural Head Avatars) and Voice-enabled Conversation (using text-to-Speech) for Generated Prompts and integrated with FastAPI
-   Skills: C++ · Neural Radiance Fields · Machine Learning · Python · Convolutional Neural Networks (CNN) · PyTorch · TensorFlow · Natural Language Processing (NLP) · Computer Vision · Keras · OpenCV · Transformer3. Student Researcher
+   - Developed a personalized GenerativeQA using Prompt Engineering with GPT-J and GPT-NeoX; METEOR: 22.34 (2%↑); STS: 0.87 (3.5%↑) and integrated Unit Tests for the GitHub Repo (FastAPI for APIs)
+   - Compared different model-based approaches using metrics (BLEU, ROUGE, METEOR, STS) for loss functions (CE, Triplet)
+   - Prepared a PoC for 3D Human-based Avatar (Using NeurMan and Neural Head Avatars) and Voice-enabled Conversation (using text-to-Speech) for Generated Prompts and integrated with FastAPI
+   - Developed a personalized GenerativeQA using Prompt Engineering with GPT-J and GPT-NeoX; METEOR: 22.34 (2%↑); STS: 0.87 (3.5%↑) and integrated Unit Tests for the GitHub Repo (FastAPI for APIs)
+   - Compared different model-based approaches using metrics (BLEU, ROUGE, METEOR, STS) for loss functions (CE, Triplet)
+   - Prepared a PoC for 3D Human-based Avatar (Using NeurMan and Neural Head Avatars) and Voice-enabled Conversation (using text-to-Speech) for Generated Prompts and integrated with FastAPI
+   - **Skills:** C++ · Neural Radiance Fields · Machine Learning · Python · Convolutional Neural Networks (CNN) · PyTorch · TensorFlow · Natural Language Processing (NLP) · Computer Vision · Keras · OpenCV · Transformer3. Student Researcher
 3. **(USC Integrated Media Systems Center lab)**
-   • Classified Street Cleanliness using pre-trained models (MobileNet, EfficientNet, ResNet, etc.); Accuracy: 0.71 (5.72%↑)
-   • Demonstrated I-SPLIT algorithm for Split-Computing on edge-devices using CUmulative Importance (cumulative GradCAM)• Classified Street Cleanliness using pre-trained models (MobileNet, EfficientNet, ResNet, etc.); Accuracy: 0.71 (5.72%↑) • Demonstrated I-SPLIT algorithm for Split-Computing on edge-devices using CUmulative Importance (cumulative GradCAM)
-   Skills: Artificial Intelligence · Python · Artificial Neural Networks · Computer Vision · Computer Science
+   - Classified Street Cleanliness using pre-trained models (MobileNet, EfficientNet, ResNet, etc.); Accuracy: 0.71 (5.72%↑)
+   - Demonstrated I-SPLIT algorithm for Split-Computing on edge-devices using CUmulative Importance (cumulative GradCAM)• Classified Street Cleanliness using pre-trained models (MobileNet, EfficientNet, ResNet, etc.); Accuracy: 0.71 (5.72%↑) • Demonstrated I-SPLIT algorithm for Split-Computing on edge-devices using CUmulative Importance (cumulative GradCAM)
+   - **Skills:** Artificial Intelligence · Python · Artificial Neural Networks · Computer Vision · Computer Science
 4. Machine Learning Engineer Intern **(Guidewire Software)**
-   • Augment Data Quality framework for data artifacts from Sagemaker Feature Store (using Athena), PostgreSQL, and S3
-   • Develop Containers to automatically generate report and JSON objects (with Visualizations) with ML-automated test suite
-   • Developed a PoC for fire hydrant detection for Hazard Hub team to analyze the places with Urgent Firefighter/FireHydrant support using super-resolved Geospatial rasters
-   • Presented a short survey of Neural Radiance Fields and their use-case in different teams across Guidewire
-   • Augment Data Quality framework for data artifacts from Sagemaker Feature Store (using Athena), PostgreSQL, and S3
-   • Develop Containers to automatically generate report and JSON objects (with Visualizations) with ML-automated test suite
-   • Developed a PoC for fire hydrant detection for Hazard Hub team to analyze the places with Urgent Firefighter/FireHydrant support using super-resolved Geospatial rasters • Presented a short survey of Neural Radiance Fields and their use-case in different teams across Guidewire
-   Skills: Continuous Integration and Continuous Delivery (CI/CD) · Docker Products · Neural Radiance Fields · Python · Amazon Web Services (AWS) · Agile
+   - Augment Data Quality framework for data artifacts from Sagemaker Feature Store (using Athena), PostgreSQL, and S3
+   - Develop Containers to automatically generate report and JSON objects (with Visualizations) with ML-automated test suite
+   - Developed a PoC for fire hydrant detection for Hazard Hub team to analyze the places with Urgent Firefighter/FireHydrant support using super-resolved Geospatial rasters
+   - Presented a short survey of Neural Radiance Fields and their use-case in different teams across Guidewire
+   - Augment Data Quality framework for data artifacts from Sagemaker Feature Store (using Athena), PostgreSQL, and S3
+   - Develop Containers to automatically generate report and JSON objects (with Visualizations) with ML-automated test suite
+   - Developed a PoC for fire hydrant detection for Hazard Hub team to analyze the places with Urgent Firefighter/FireHydrant support using super-resolved Geospatial rasters • Presented a short survey of Neural Radiance Fields and their use-case in different teams across Guidewire
+   - **Skills:** Continuous Integration and Continuous Delivery (CI/CD) · Docker Products · Neural Radiance Fields · Python · Amazon Web Services (AWS) · Agile
 5. Graduate Research Assistant **(USC Information Sciences Institute)**
-   • Engineered a baseline for regressing 3DMM features without explicit Face Landmark detection deploying 62-D Regression
-   • Implemented Img2pose, 3D Dense Face Alignment, 3D Dense Face Alignment V2, Position-map Regression Network, Volumetric Regression Network, models and evaluated based on Normalized Mean Error on Weights&Biases
-   • Engineered a baseline for regressing 3DMM features without explicit Face Landmark detection deploying 62-D Regression. • Implemented Img2pose, 3D Dense Face Alignment, 3D Dense Face Alignment V2, Position-map Regression Network, Volumetric Regression Network, models and evaluated based on Normalized Mean Error on Weights&Biases
-   Skills: C++ · Generative Adversarial Networks (GANs) · Python · Deep Learning · Computer Vision · Physics · C (Programming Language) · MATLAB
+   - Engineered a baseline for regressing 3DMM features without explicit Face Landmark detection deploying 62-D Regression
+   - Implemented Img2pose, 3D Dense Face Alignment, 3D Dense Face Alignment V2, Position-map Regression Network, Volumetric Regression Network, models and evaluated based on Normalized Mean Error on Weights&Biases
+   - Engineered a baseline for regressing 3DMM features without explicit Face Landmark detection deploying 62-D Regression. • Implemented Img2pose, 3D Dense Face Alignment, 3D Dense Face Alignment V2, Position-map Regression Network, Volumetric Regression Network, models and evaluated based on Normalized Mean Error on Weights&Biases
+   - **Skills:** C++ · Generative Adversarial Networks (GANs) · Python · Deep Learning · Computer Vision · Physics · C (Programming Language) · MATLAB
 6. Student Research Worker **(USC Marshall School of Business)**
-   • Worked on Topic Modelling for research in Quantum Computing using Latent Dirichlet Allocation, Latent Semantic Analysis, Hierarchical Dirichlet process, and BERTopic (Sci-BERT and OAG-BERT embeddings).
-   • Planned Fastlink-based EM-algorithm on L2 and Researcher data to cluster researchers based on area and ORCID API
+   - Worked on Topic Modelling for research in Quantum Computing using Latent Dirichlet Allocation, Latent Semantic Analysis, Hierarchical Dirichlet process, and BERTopic (Sci-BERT and OAG-BERT embeddings).
+   - Planned Fastlink-based EM-algorithm on L2 and Researcher data to cluster researchers based on area and ORCID API
 7. Data Scientist **(Sociometrik Infer Pvt Ltd)**
-   • Designed metal roof-detection pipeline by leveraging Indore Imagery with the performance of 64.35% & achieved an average IoU score of 0.6981
-   • Built a feature extraction pipeline based on CI/CD methodology and led a POC utilizing Car Overhead data with F-measure of 0.7341(3.7 % increase) and obtained building-wise IoU of 0.78464 (6.8% increase)
-   • Facilitated a POC for multi-label classification (with 21 pre-trained models and one custom model) for the terrain around rivers (17 different labels such as rivers, forest, cloudy, etc.) (like Amazon) (Average Precision: 0.8699 (20 % increase) and Average Recall: 0.7939 (12 % increase))
-   • Designed metal roof-detection pipeline by leveraging Indore Imagery with the performance of 64.35% & achieved an average IoU score of 0.6981; • Built a feature extraction pipeline based on CI/CD methodology and led a POC utilizing Car Overhead data with F-measure of 0.7341(3.7 % increase) and obtained building-wise IoU of 0.78464 (6.8% increase); • Facilitated a POC for multi-label classification (with 21 pre-trained models and one custom model) for the terrain around rivers (17 different labels such as rivers, forest, cloudy, etc.) (like Amazon) (Average Precision: 0.8699 (20 % increase) and Average Recall: 0.7939 (12 % increase))
-   Skills: Generative Adversarial Networks (GANs) · Data Science · Python · Computer Vision · Neural Networks · Data Visualization · Amazon Web Services (AWS)
+   - Designed metal roof-detection pipeline by leveraging Indore Imagery with the performance of 64.35% & achieved an average IoU score of 0.6981
+   - Built a feature extraction pipeline based on CI/CD methodology and led a POC utilizing Car Overhead data with F-measure of 0.7341(3.7 % increase) and obtained building-wise IoU of 0.78464 (6.8% increase)
+   - Facilitated a POC for multi-label classification (with 21 pre-trained models and one custom model) for the terrain around rivers (17 different labels such as rivers, forest, cloudy, etc.) (like Amazon) (Average Precision: 0.8699 (20 % increase) and Average Recall: 0.7939 (12 % increase))
+   - Designed metal roof-detection pipeline by leveraging Indore Imagery with the performance of 64.35% & achieved an average IoU score of 0.6981; • Built a feature extraction pipeline based on CI/CD methodology and led a POC utilizing Car Overhead data with F-measure of 0.7341(3.7 % increase) and obtained building-wise IoU of 0.78464 (6.8% increase); • Facilitated a POC for multi-label classification (with 21 pre-trained models and one custom model) for the terrain around rivers (17 different labels such as rivers, forest, cloudy, etc.) (like Amazon) (Average Precision: 0.8699 (20 % increase) and Average Recall: 0.7939 (12 % increase))
+   - **Skills:** Generative Adversarial Networks (GANs) · Data Science · Python · Computer Vision · Neural Networks · Data Visualization · Amazon Web Services (AWS)
 8. Research Associate **(Indian Institute of Technology Delhi)**
-   • Developed a Serious Game to impart Blockchain competencies (Sequence-to-Sequence-based Chatbot) - CEBT paper (Cited 27 times) using WebGL and Android
-   • Developed NAF-based (Actor-Critic Variant) Cont. NPC Adaptiveness Algorithm to augment Game Design & Mechanics with Feedbacks
-   • Presented a report focused on increasing user interactivity by 27% (average user feedback) by utilizing action- feedback elements and behavioral-trees
-   • Integrated a clustering algorithm to group user feedback in a Cyber Threat game (Achieved accuracy of 76.32% (10.6% increase)
-   • Developed a Serious Game to impart Blockchain competencies (Sequence-to-Sequence-based Chatbot) - CEBT paper (Cited 27 times) using WebGL and Android
-   • Developed NAF-based (Actor-Critic Variant) Cont. NPC Adaptiveness Algorithm to augment Game Design & Mechanics with Feedbacks • Presented a report focused on increasing user interactivity by 27% (average user feedback) by utilizing action- feedback elements and behavioral-trees • Integrated a clustering algorithm to group user feedback in a Cyber Threat game (Achieved accuracy of 76.32% (10.6% increase)
-   Skills: Python · Artificial Neural Networks · Computer Science · Neural Networks · Serious Game Development · PostgreSQL
+   - Developed a Serious Game to impart Blockchain competencies (Sequence-to-Sequence-based Chatbot) - CEBT paper (Cited 27 times) using WebGL and Android
+   - Developed NAF-based (Actor-Critic Variant) Cont. NPC Adaptiveness Algorithm to augment Game Design & Mechanics with Feedbacks
+   - Presented a report focused on increasing user interactivity by 27% (average user feedback) by utilizing action- feedback elements and behavioral-trees
+   - Integrated a clustering algorithm to group user feedback in a Cyber Threat game (Achieved accuracy of 76.32% (10.6% increase)
+   - Developed a Serious Game to impart Blockchain competencies (Sequence-to-Sequence-based Chatbot) - CEBT paper (Cited 27 times) using WebGL and Android
+   - Developed NAF-based (Actor-Critic Variant) Cont. NPC Adaptiveness Algorithm to augment Game Design & Mechanics with Feedbacks • Presented a report focused on increasing user interactivity by 27% (average user feedback) by utilizing action- feedback elements and behavioral-trees • Integrated a clustering algorithm to group user feedback in a Cyber Threat game (Achieved accuracy of 76.32% (10.6% increase)
+   - **Skills:** Python · Artificial Neural Networks · Computer Science · Neural Networks · Serious Game Development · PostgreSQL
 9. Web Development Engineer **(UVA Institute)**
-   • Built and deployed e-learning website with React, Redux, Spring & MySQL and added video features with FFMPEG
-   • Comments/reviews Information retrieved using Selenium and BS4; Sales-analysis of courses using EDA led to 15% ↑ in revenue• Built and deployed e-learning website with React, Redux, Spring & MySQL and added video features with FFMPEG
-   • Comments/reviews Information retrieved using Selenium and BS4; Sales-analysis of courses using EDA led to 15% ↑ in revenue
-   Skills: Data Science · Data Visualization · Amazon Web Services (AWS)
+   - Built and deployed e-learning website with React, Redux, Spring & MySQL and added video features with FFMPEG
+   - Comments/reviews Information retrieved using Selenium and BS4; Sales-analysis of courses using EDA led to 15% ↑ in revenue• Built and deployed e-learning website with React, Redux, Spring & MySQL and added video features with FFMPEG
+   - Comments/reviews Information retrieved using Selenium and BS4; Sales-analysis of courses using EDA led to 15% ↑ in revenue
+   - **Skills:** Data Science · Data Visualization · Amazon Web Services (AWS)
 10. Data Science Intern **(Delhi e-Governance Society)**
-   • Collaborated with National Informatics Centre for visualization; Developed Auto-scaled platform for 478 e-services (Now: 4,038 services) (link: https://etaal.gov.in/etaal2/auth/default.aspx)
-   • Extracted relevant data using SQL to develop an analytical and visualization interface
-   • Deployed a transactions predictor and visualization tool with daily service prediction facility with 81.74% accuracy using ASP.NET• Collaborated with National Informatics Centre for visualization; Developed Auto-scaled platform for 478 e-services (Now: 4,038 services) (link: https://etaal.gov.in/etaal2/auth/default.aspx) • Extracted relevant data using SQL to develop an analytical and visualization interface • Deployed a transactions predictor and visualization tool with daily service prediction facility with 81.74% accuracy using ASP.NET
-   Skills: Data Science · Python · Computer Science · Neural Networks · Data Visualization
+   - Collaborated with National Informatics Centre for visualization; Developed Auto-scaled platform for 478 e-services (Now: 4,038 services) (link: https://etaal.gov.in/etaal2/auth/default.aspx)
+   - Extracted relevant data using SQL to develop an analytical and visualization interface
+   - Deployed a transactions predictor and visualization tool with daily service prediction facility with 81.74% accuracy using ASP.NET• Collaborated with National Informatics Centre for visualization; Developed Auto-scaled platform for 478 e-services (Now: 4,038 services) (link: https://etaal.gov.in/etaal2/auth/default.aspx) • Extracted relevant data using SQL to develop an analytical and visualization interface • Deployed a transactions predictor and visualization tool with daily service prediction facility with 81.74% accuracy using ASP.NET
+   - **Skills:** Data Science · Python · Computer Science · Neural Networks · Data Visualization
 
 ## Projects and Technologies
 1. [Augmented Reality](https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74)
