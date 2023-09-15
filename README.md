@@ -96,7 +96,7 @@
      - Spearhead R&D efforts to adapt neural radiance fields (NeRF) techniques for real-time processing, specifically targeting dynamic scenes
      - Stay updated on recent advancements in NeRF and related technologies, integrating them where beneficial
    - GPU Acceleration and Optimization
-     - Develop, optimize, and maintain GPU-based algorithms to ensure maximum performance for NeRF computations.
+     - Develop, optimize, and maintain GPU-based algorithms to ensure maximum performance for NeRF computations
      - Work closely with hardware teams to understand the nuances of specific GPU architectures and maximize computational throughput
    - Dynamic Scene Handling
      - Create methodologies to capture and process rapidly changing environments using NeRF, ensuring temporal coherence and stability
