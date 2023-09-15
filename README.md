@@ -91,8 +91,7 @@
 </p>
 
 ## Work Experience
-<!-------------
-1. Senior Computer Vision Engineer (Founder) **Remix**
+<!-------------1. Senior Computer Vision Engineer (Founder) **Remix**
    - Research and Development
      - Spearhead R&D efforts to adapt neural radiance fields (NeRF) techniques for real-time processing, specifically targeting dynamic scenes
      - Stay updated on recent advancements in NeRF and related technologies, integrating them where beneficial
@@ -122,8 +121,7 @@
      - Implement stress tests to ensure system stability and performance under peak loads
    - Documentation and Knowledge Sharing
      - Document GPU algorithms, NeRF adaptations, and system architectures comprehensively for both internal use and potential external publications
-     - Represent the startup at GPU and computer vision conferences, fostering collaborations and staying updated on industry advancements
------->
+     - Represent the startup at GPU and computer vision conferences, fostering collaborations and staying updated on industry advancements------>
 1. AI/ML Research Engineer (Co-op) **(KNOW Systems Corp)**
    - Developed a personalized GenerativeQA using Prompt Engineering with GPT-J and GPT-NeoX; METEOR: 22.34 (2%↑); STS: 0.87 (3.5%↑) and integrated Unit Tests for the GitHub Repo (FastAPI for APIs)
    - Compared different model-based approaches using metrics (BLEU, ROUGE, METEOR, STS) for loss functions (CE, Triplet)
