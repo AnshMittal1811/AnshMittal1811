@@ -92,88 +92,61 @@
 
 ## Work Experience
 1. Senior Computer Vision Engineer (Founder) **Remix**
-   - Research and Development
-     - Spearhead R&D efforts to adapt neural radiance fields (NeRF) techniques for real-time processing, specifically targeting dynamic scenes
-     - Stay updated on recent advancements in NeRF and related technologies, integrating them where beneficial
-   - GPU Acceleration and Optimization
-     - Develop, optimize, and maintain GPU-based algorithms to ensure maximum performance for NeRF computations
-     - Work closely with hardware teams to understand the nuances of specific GPU architectures and maximize computational throughput
-   - Dynamic Scene Handling
-     - Create methodologies to capture and process rapidly changing environments using NeRF, ensuring temporal coherence and stability
-     - Address challenges associated with motion, occlusions, and varying lighting conditions in dynamic scenes
-   - Real-time Rendering
-     - Design and implement a real-time rendering pipeline tailored for the outputs from the NeRF process
-     - Ensure that the rendering maintains a balance between visual quality and computational speed
-   - Calibration and Synchronization
-     - Establish robust systems for calibrating cameras and sensors, especially in dynamic settings, ensuring accurate spatial and temporal data capture
-     - Handle synchronization between multiple GPUs or between GPU and other system components for parallel processing
-   - Deep Learning and Neural Network Optimization
-     - Optimize neural network architectures and training pipelines for NeRF, considering the specific demands of real-time and dynamic scene processing
-     - Develop systems to rapidly train or fine-tune models using dynamic scene data, possibly leveraging transfer learning or few-shot learning techniques
-   - Memory and Bandwidth Optimization
-     - Design algorithms and systems to minimize GPU memory usage and ensure efficient memory bandwidth utilization during NeRF computations
-     - Handle challenges related to data transfer between CPU and GPU, or between multiple GPUs, especially in a real-time setting
-   - Collaboration and Leadership
-     - Collaborate closely with other computer vision engineers, software developers, and hardware teams to ensure holistic system performance
-     - Mentor team members on GPU programming techniques, NeRF algorithms, and real-time processing challenges
-   - Quality Assurance and Testing
-     - Develop robust testing methodologies for GPU-accelerated NeRF systems
-     - Implement stress tests to ensure system stability and performance under peak loads
-   - Documentation and Knowledge Sharing
-     - Document GPU algorithms, NeRF adaptations, and system architectures comprehensively for both internal use and potential external publications
-     - Represent the startup at GPU and computer vision conferences, fostering collaborations and staying updated on industry advancements-
+   - Spearheaded R&D efforts to develop 3D Virtual Teleporter to process and infer real-time dynamic scenes with motion parallax
+   - Established robust camera calibration systems ensuring spatial & temporal data consistency and developed stress tests for NeRF systems
+   - Handled synchronization and data transfer between multiple GPUs & GPU-CPU setups for parallel processing and NeRF computations
+   - Compiled OpenCV with Gstreamer, DNN, CUDA, and VTK for Nvidia Turing, Ampere, Ada towards ARM64, AMD64, and X86 chips
+   - Reduced latency in 3D Virtual teleporter pipeline to 50 ms/20 fps (5 fps↑) to work in real-time dynamic and lighting conditions
+   - Trained LeRF with ViT-L/14 embeddings for self-collected 12-scenes using NeRF-studio for 97.56% recognized scenes from COLMAP
+   - Optimized neural network & NeRF architectures for training pipelines in real-time and dynamic scene processing and inference
+   - Integrated Multi-sphere Image rendering, Dynamic Gaussian Splatting, Object Detection API, LLM-API, and Language-grounded Vision for real-time dynamic scenes
 2. AI/ML Research Engineer (Co-op) **(KNOW Systems Corp)**
    - Developed a personalized GenerativeQA using Prompt Engineering with GPT-J and GPT-NeoX; METEOR: 22.34 (2%↑); STS: 0.87 (3.5%↑) and integrated Unit Tests for the GitHub Repo (FastAPI for APIs)
    - Compared different model-based approaches using metrics (BLEU, ROUGE, METEOR, STS) for loss functions (CE, Triplet)
    - Prepared a PoC for 3D Human-based Avatar (Using NeurMan and Neural Head Avatars) and Voice-enabled Conversation (using text-to-Speech) for Generated Prompts and integrated with FastAPI
-   - Developed a personalized GenerativeQA using Prompt Engineering with GPT-J and GPT-NeoX; METEOR: 22.34 (2%↑); STS: 0.87 (3.5%↑) and integrated Unit Tests for the GitHub Repo (FastAPI for APIs)
-   - Compared different model-based approaches using metrics (BLEU, ROUGE, METEOR, STS) for loss functions (CE, Triplet)
-   - Prepared a PoC for 3D Human-based Avatar (Using NeurMan and Neural Head Avatars) and Voice-enabled Conversation (using text-to-Speech) for Generated Prompts and integrated with FastAPI
+   - Created GitHub CI/CD workflows with evaluation metrics for NLP and Neural Rendering models for Monitoring and Version Control
    - **Skills:** C++ · Neural Radiance Fields · Machine Learning · Python · Convolutional Neural Networks (CNN) · PyTorch · TensorFlow · Natural Language Processing (NLP) · Computer Vision · Keras · OpenCV · Transformer3. Student Researcher
 3. **(USC Integrated Media Systems Center lab)**
    - Classified Street Cleanliness using pre-trained models (MobileNet, EfficientNet, ResNet, etc.); Accuracy: 0.71 (5.72%↑)
-   - Demonstrated I-SPLIT algorithm for Split-Computing on edge-devices using CUmulative Importance (cumulative GradCAM)• Classified Street Cleanliness using pre-trained models (MobileNet, EfficientNet, ResNet, etc.); Accuracy: 0.71 (5.72%↑) • Demonstrated I-SPLIT algorithm for Split-Computing on edge-devices using CUmulative Importance (cumulative GradCAM)
+   - Demonstrated I-SPLIT algorithm for Split-Computing on edge-devices using CUmulative Importance (cumulative GradCAM)
    - **Skills:** Artificial Intelligence · Python · Artificial Neural Networks · Computer Vision · Computer Science
 4. Machine Learning Engineer Intern **(Guidewire Software)**
-   - Augment Data Quality framework for data artifacts from Sagemaker Feature Store (using Athena), PostgreSQL, and S3
+   - Spearheaded Data Quality framework development for data artifacts from Sagemaker Feature Store (using Athena), PostgreSQL, and S3
    - Develop Containers to automatically generate report and JSON objects (with Visualizations) with ML-automated test suite
    - Developed a PoC for fire hydrant detection for Hazard Hub team to analyze the places with Urgent Firefighter/FireHydrant support using super-resolved Geospatial rasters
    - Presented a short survey of Neural Radiance Fields and their use-case in different teams across Guidewire
-   - Augment Data Quality framework for data artifacts from Sagemaker Feature Store (using Athena), PostgreSQL, and S3
-   - Develop Containers to automatically generate report and JSON objects (with Visualizations) with ML-automated test suite
-   - Developed a PoC for fire hydrant detection for Hazard Hub team to analyze the places with Urgent Firefighter/FireHydrant support using super-resolved Geospatial rasters • Presented a short survey of Neural Radiance Fields and their use-case in different teams across Guidewire
    - **Skills:** Continuous Integration and Continuous Delivery (CI/CD) · Docker Products · Neural Radiance Fields · Python · Amazon Web Services (AWS) · Agile
 5. Graduate Research Assistant **(USC Information Sciences Institute)**
    - Engineered a baseline for regressing 3DMM features without explicit Face Landmark detection deploying 62-D Regression
    - Implemented Img2pose, 3D Dense Face Alignment, 3D Dense Face Alignment V2, Position-map Regression Network, Volumetric Regression Network, models and evaluated based on Normalized Mean Error on Weights&Biases
-   - Engineered a baseline for regressing 3DMM features without explicit Face Landmark detection deploying 62-D Regression. • Implemented Img2pose, 3D Dense Face Alignment, 3D Dense Face Alignment V2, Position-map Regression Network, Volumetric Regression Network, models and evaluated based on Normalized Mean Error on Weights&Biases
    - **Skills:** C++ · Generative Adversarial Networks (GANs) · Python · Deep Learning · Computer Vision · Physics · C (Programming Language) · MATLAB
 6. Student Research Worker **(USC Marshall School of Business)**
-   - Worked on Topic Modelling for research in Quantum Computing using Latent Dirichlet Allocation, Latent Semantic Analysis, Hierarchical Dirichlet process, and BERTopic (Sci-BERT and OAG-BERT embeddings).
+   - Worked on Topic Modelling for research in Quantum Computing using Latent Dirichlet Allocation, Latent Semantic Analysis, Hierarchical Dirichlet process, and BERTopic (Sci-BERT and OAG-BERT embeddings)
    - Planned Fastlink-based EM-algorithm on L2 and Researcher data to cluster researchers based on area and ORCID API
 7. Data Scientist **(Sociometrik Infer Pvt Ltd)**
-   - Designed metal roof-detection pipeline by leveraging Indore Imagery with the performance of 64.35% & achieved an average IoU score of 0.6981
-   - Built a feature extraction pipeline based on CI/CD methodology and led a POC utilizing Car Overhead data with F-measure of 0.7341(3.7 % increase) and obtained building-wise IoU of 0.78464 (6.8% increase)
-   - Facilitated a POC for multi-label classification (with 21 pre-trained models and one custom model) for the terrain around rivers (17 different labels such as rivers, forest, cloudy, etc.) (like Amazon) (Average Precision: 0.8699 (20 % increase) and Average Recall: 0.7939 (12 % increase))
-   - Designed metal roof-detection pipeline by leveraging Indore Imagery with the performance of 64.35% & achieved an average IoU score of 0.6981; • Built a feature extraction pipeline based on CI/CD methodology and led a POC utilizing Car Overhead data with F-measure of 0.7341(3.7 % increase) and obtained building-wise IoU of 0.78464 (6.8% increase); • Facilitated a POC for multi-label classification (with 21 pre-trained models and one custom model) for the terrain around rivers (17 different labels such as rivers, forest, cloudy, etc.) (like Amazon) (Average Precision: 0.8699 (20 % increase) and Average Recall: 0.7939 (12 % increase))
+   - Led a team to develop Metal Roof-Detection pipeline (Avg IoU: 0.698) on AWS EC2 (Model rollbacks and updates) for Indore Imagery using AWS Lambda
+   - Orchestrated (AirFlow DAGs) a Super-Resolution pipeline with LandSAT GIS-image data using PyTorch UDF (Horovod support)
+   - Built a feature extraction pipeline based on CI/CD methodology and led a POC utilizing Car Overhead data with F-measure of 0.7341(3.7 % increase) and obtained building-wise IoU of 0.78464 (6.8% increase) using Jenkins CI/CD
+   - Queried 2 S3 buckets (Segmented & Super-Resolution maps) with AWS Lambda queries for 10+ RESTful APIs (NodeJS & ExpressJS)
+   - Facilitated a POC for multi-label classification (with 21 pre-trained models and one custom model) for the terrain around rivers (17 different labels such as rivers, forest, cloudy, etc.) (like Amazon). Average Precision: 0.8699 (20 % increase) and Average Recall: 0.7939 (12 % increase)
    - **Skills:** Generative Adversarial Networks (GANs) · Data Science · Python · Computer Vision · Neural Networks · Data Visualization · Amazon Web Services (AWS)
 8. Research Associate **(Indian Institute of Technology Delhi)**
-   - Developed a Serious Game to impart Blockchain competencies (Sequence-to-Sequence-based Chatbot) - CEBT paper (Cited 27 times) using WebGL and Android
-   - Developed NAF-based (Actor-Critic Variant) Cont. NPC Adaptiveness Algorithm to augment Game Design & Mechanics with Feedbacks
-   - Presented a report focused on increasing user interactivity by 27% (average user feedback) by utilizing action- feedback elements and behavioral-trees
+   - Hosted Unity Web Applications for Cyber Security & Threat Prevention using GraphQL, NodeJS and ReactJS for IIT Research Lab
+   - Developed a Serious Game to impart Blockchain competencies (Sequence-to-Sequence-based Chatbot) - CEBT paper using WebGL and Android with NAF-based (Actor-Critic Variant) Cont. NPC Adaptiveness Algorithm to augment Game Design & Mechanics with Feedbacks
+   - Engineered an Infotainment-based game to teach Blockchain to amateurs and professionals (Sequence-to-Sequence Chatbot)
+   - Implemented an algorithm to cluster user feedback in Cyber Threat game (with accuracy 76.32% (10.6%↑)) with Firebase using REST
+   - Presented a report focused on increasing user interactivity by 27% (average user feedback) by utilizing action-feedback elements and behavioral-trees
    - Integrated a clustering algorithm to group user feedback in a Cyber Threat game (Achieved accuracy of 76.32% (10.6% increase)
-   - Developed a Serious Game to impart Blockchain competencies (Sequence-to-Sequence-based Chatbot) - CEBT paper (Cited 27 times) using WebGL and Android
-   - Developed NAF-based (Actor-Critic Variant) Cont. NPC Adaptiveness Algorithm to augment Game Design & Mechanics with Feedbacks • Presented a report focused on increasing user interactivity by 27% (average user feedback) by utilizing action- feedback elements and behavioral-trees • Integrated a clustering algorithm to group user feedback in a Cyber Threat game (Achieved accuracy of 76.32% (10.6% increase)
    - **Skills:** Python · Artificial Neural Networks · Computer Science · Neural Networks · Serious Game Development · PostgreSQL
 9. Web Development Engineer **(UVA Institute)**
-   - Built and deployed e-learning website with React, Redux, Spring & MySQL and added video features with FFMPEG
-   - Comments/reviews Information retrieved using Selenium and BS4; Sales-analysis of courses using EDA led to 15% ↑ in revenue• Built and deployed e-learning website with React, Redux, Spring & MySQL and added video features with FFMPEG
-   - Comments/reviews Information retrieved using Selenium and BS4; Sales-analysis of courses using EDA led to 15% ↑ in revenue
+   - Migrated e-learning website from Angular to React and added RTMP for mock tests, exams, online video classes for JEE-Mains
+   - Integrated FFMPEG to WebRTC for capturing lectures and automated stream publishing to different sources decreasing latency by 27%↓
+   - Setup a Kafka video stream in parallel and performed multimedia analysis using FFMPEG with EDA contributing a 15% ↑ in revenue
    - **Skills:** Data Science · Data Visualization · Amazon Web Services (AWS)
 10. Data Science Intern **(Delhi e-Governance Society)**
-   - Collaborated with National Informatics Centre for visualization; Developed Auto-scaled platform for 478 e-services (Now: 4,038 services) (link: https://etaal.gov.in/etaal2/auth/default.aspx)
+   - Collaborated with National Informatics Centre for visualization, Developed Auto-scaled platform for 478 e-services (Now: 4,038 services)
    - Extracted relevant data using SQL to develop an analytical and visualization interface
-   - Deployed a transactions predictor and visualization tool with daily service prediction facility with 81.74% accuracy using ASP.NET• Collaborated with National Informatics Centre for visualization; Developed Auto-scaled platform for 478 e-services (Now: 4,038 services) (link: https://etaal.gov.in/etaal2/auth/default.aspx) • Extracted relevant data using SQL to develop an analytical and visualization interface • Deployed a transactions predictor and visualization tool with daily service prediction facility with 81.74% accuracy using ASP.NET
+   - Deployed a transactions predictor and visualization tool with daily service prediction facility with 81.74% accuracy using ASP.NET
    - **Skills:** Data Science · Python · Computer Science · Neural Networks · Data Visualization
 
 ## Projects and Technologies
