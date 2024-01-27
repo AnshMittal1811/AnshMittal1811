@@ -46,9 +46,7 @@
 - 🤔 Started learning Japanese and German
 - 💬 Ask me about ML, Computer Vision (NeRFs, GANs, ViTs, CNNs) and Natural Language Processing (GPT3.5, Instruct Tuning, LLMs)
 - ⚡ Fun fact: Sunset on Mars appears to be Blue rather than Yellowish-Red at Earth
-- 🥅 2023 Goals:
-   - Getting the NeRFs survey paper (by including all the papers read related to the field) published to ACM Surveys
-   - Start working for a company
+- 🥅 2024 Goals:
    - Buy a Telescope
    - Get your own office desktop setup with room for Astrophotography
 <!-- - Reading a Paper from MLSys conference and working on Python basics daily for 2023 -->
