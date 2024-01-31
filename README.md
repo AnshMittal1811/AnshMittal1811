@@ -88,6 +88,13 @@
 
 </p>
 
+
+## Projects and Technologies
+1. [Augmented Reality](https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74)
+2. [ML.NET and Spark.Net for C# ](https://gist.github.com/AnshMittal1811/9d3b98acbf7bcff3134b22d85510539f)
+3. [MLL Compilation](https://gist.github.com/AnshMittal1811/cb0b1779821d07bfb178fde430206027)
+
+
 ## Work Experience
 1. Senior Computer Vision Engineer (Founder) **Remix**
    - Spearheaded R&D efforts to develop 3D Virtual Teleporter to process and infer real-time dynamic scenes with motion parallax
@@ -147,9 +154,6 @@
    - Deployed a transactions predictor and visualization tool with daily service prediction facility with 81.74% accuracy using ASP.NET
    - **Skills:** Data Science · Python · Computer Science · Neural Networks · Data Visualization
 
-## Projects and Technologies
-1. [Augmented Reality](https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74)
-2. [ML.NET and Spark.Net for C# ](https://gist.github.com/AnshMittal1811/9d3b98acbf7bcff3134b22d85510539f)
 
 <!-- <script src="https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74" />
 
