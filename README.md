@@ -97,10 +97,11 @@
 
 ## Work Experience: 
 1. Senior Computer Vision Engineer (Founder) **Remix**
-2. AI/ML Research Engineer (Co-op) **(KNOW Systems Corp)**
     - **Skills:** Augmented Reality · Python · PyTorch · Artificial Intelligence · Convolutional Neural Networks (CNN) · C# · Computer Vision · Python (Programming Language) · Virtual Reality · TensorFlow · Machine Learning · Deep Learning · Computer Science · Keras · Neural Radiance Fields · Amazon Web Services (AWS)
-3. Graduate Research Assistant **(USC Information Sciences Institute & USC Integrated Media Systems Center lab)**
+2. AI/ML Research Engineer (Co-op) **(KNOW Systems Corp)**
     - **Skills:** Python · PyTorch · C++ · Convolutional Neural Networks (CNN) · Computer Vision · Transformer · OpenCV · TensorFlow · Machine Learning · Keras · Neural Radiance Fields · Natural Language Processing (NLP)
+3. Graduate Research Assistant **(USC Information Sciences Institute & USC Integrated Media Systems Center lab)**
+    - **Skills:** Generative Adversarial Networks (GANs) · MATLAB · Python · C (Programming Language) · C++ · Computer Vision · Physics · Deep Learning · Artificial Intelligence · Computer Vision · Artificial Neural Networks · Computer Science
 4. Machine Learning Engineer Intern **(Guidewire Software)**
     - **Skills:** Python · Agile · Continuous Integration and Continuous Delivery (CI/CD) · Neural Radiance Fields · Docker Products · Amazon Web Services (AWS)
 5. Data Scientist **(Sociometrik Infer Pvt Ltd)**
