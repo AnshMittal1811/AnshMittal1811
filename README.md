@@ -95,7 +95,25 @@
 3. [ML Compilation (LLVM, MLIR, TVM, XLA)](https://gist.github.com/AnshMittal1811/cb0b1779821d07bfb178fde430206027)
 
 
-## Work Experience: [Given Here in Detail](https://www.linkedin.com/in/mittalansh/details/experience/)
+## Work Experience: 
+1. Senior Computer Vision Engineer (Founder) **Remix**
+2. AI/ML Research Engineer (Co-op) **(KNOW Systems Corp)**
+    - **Skills:** Augmented Reality · Python · PyTorch · Artificial Intelligence · Convolutional Neural Networks (CNN) · C# · Computer Vision · Python (Programming Language) · Virtual Reality · TensorFlow · Machine Learning · Deep Learning · Computer Science · Keras · Neural Radiance Fields · Amazon Web Services (AWS)
+3. Graduate Research Assistant **(USC Information Sciences Institute & USC Integrated Media Systems Center lab)**
+    - **Skills:** Python · PyTorch · C++ · Convolutional Neural Networks (CNN) · Computer Vision · Transformer · OpenCV · TensorFlow · Machine Learning · Keras · Neural Radiance Fields · Natural Language Processing (NLP)
+4. Machine Learning Engineer Intern **(Guidewire Software)**
+    - **Skills:** Python · Agile · Continuous Integration and Continuous Delivery (CI/CD) · Neural Radiance Fields · Docker Products · Amazon Web Services (AWS)
+5. Data Scientist **(Sociometrik Infer Pvt Ltd)**
+    - **Skills:** Generative Adversarial Networks (GANs) · Python · Data Visualization · Computer Vision · Data Science · Neural Networks · Amazon Web Services (AWS)
+6. Research Associate **(Indian Institute of Technology Delhi)**
+    - **Skills:** Python · PostgreSQL · Serious Game Development · Artificial Neural Networks · Neural Networks · Computer Science · REST · GraphQL · Unity
+7. Web Development Engineer **(UVA Institute)**
+    - **Skills:** Data Visualization · Data Science · Amazon Web Services (AWS) · GStreamer · FFMPEG · React · Angular
+8. Data Science Intern **(Delhi e-Governance Society)**
+    - **Skills:** Python · Data Visualization · Data Science · Neural Networks · Computer Science
+
+[Given Here in Detail](https://www.linkedin.com/in/mittalansh/details/experience/)
+
 <!-- 1. Senior Computer Vision Engineer (Founder) **Remix**
    - Spearheaded R&D efforts to develop 3D Virtual Teleporter to process and infer real-time dynamic scenes with motion parallax
    - Established robust camera calibration systems ensuring spatial & temporal data consistency and developed stress tests for NeRF systems
