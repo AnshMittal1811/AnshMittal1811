@@ -95,8 +95,8 @@
 3. [ML Compilation (LLVM, MLIR, TVM, XLA)](https://gist.github.com/AnshMittal1811/cb0b1779821d07bfb178fde430206027)
 
 
-## Work Experience
-1. Senior Computer Vision Engineer (Founder) **Remix**
+## Work Experience: [Given Here in Detail](https://www.linkedin.com/in/mittalansh/details/experience/)
+<!-- 1. Senior Computer Vision Engineer (Founder) **Remix**
    - Spearheaded R&D efforts to develop 3D Virtual Teleporter to process and infer real-time dynamic scenes with motion parallax
    - Established robust camera calibration systems ensuring spatial & temporal data consistency and developed stress tests for NeRF systems
    - Handled synchronization and data transfer between multiple GPUs & GPU-CPU setups for parallel processing and NeRF computations
@@ -152,7 +152,7 @@
    - Collaborated with National Informatics Centre for visualization, Developed Auto-scaled platform for 478 e-services (Now: 4,038 services)
    - Extracted relevant data using SQL to develop an analytical and visualization interface
    - Deployed a transactions predictor and visualization tool with daily service prediction facility with 81.74% accuracy using ASP.NET
-   - **Skills:** Data Science · Python · Computer Science · Neural Networks · Data Visualization
+   - **Skills:** Data Science · Python · Computer Science · Neural Networks · Data Visualization />
 
 
 <!-- <script src="https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74" />
