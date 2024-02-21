@@ -36,12 +36,11 @@
 
 
 ### Actively looking for Machine Learning, Software Development Engineer, Natural Language Processing, AI, and Computer Vision Engineer roles for Summer 2023!!
-
+<!-- - 🌱 I’m currently working on end-to-end Machine Learning and creating a PyPI package -->
 <!-- - 😄 Pronouns: He/Him/His--->
 - 🔭 Reading about MLSys this year and writing blogs for the same
 - 📫 Read a research paper with me everyday about NLP and Computer Vision
 - 🙋‍♂️ Following Astronomy Research every week
-<!-- - 🌱 I’m currently working on end-to-end Machine Learning and creating a PyPI package -->
 - 👯 I’m looking to collaborate on end-to-end projects which employ ML and Computer Vision
 - 🤔 Started learning Japanese and German
 - 💬 Ask me about ML, Computer Vision (NeRFs, GANs, ViTs, CNNs) and Natural Language Processing (GPT3.5, Instruct Tuning, LLMs)
