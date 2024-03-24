@@ -95,7 +95,7 @@
 3. [ML Compilation (LLVM, MLIR, TVM, XLA)](https://gist.github.com/AnshMittal1811/cb0b1779821d07bfb178fde430206027)
 
 
-## Work Experience: 
+## Work Experience
 1. Senior Computer Vision Engineer (Founder) **Remix**
     - **Skills:** Augmented Reality · Python · PyTorch · Artificial Intelligence · Convolutional Neural Networks (CNN) · C# · Computer Vision · Python (Programming Language) · Virtual Reality · TensorFlow · Machine Learning · Deep Learning · Computer Science · Keras · Neural Radiance Fields · Amazon Web Services (AWS)
 2. AI/ML Research Engineer (Co-op) **(KNOW Systems Corp)**
