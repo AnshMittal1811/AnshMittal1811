@@ -36,8 +36,8 @@
  <p align="left"> <img src="https://profile-counter.glitch.me/AnshMittal1811/count.svg" alt="AnshMittal1811" /> </p>
 
 
-### Actively looking for Machine Learning, Software Development Engineer, Natural Language Processing, AI, and Computer Vision Engineer roles for Summer 2023!!
-<!-- - 🌱 I’m currently working on end-to-end Machine Learning and creating a PyPI package -->
+### Actively looking for Machine Learning, Software Development Engineer, Natural Language Processing, AI, and Computer Vision Engineer roles!!
+<!-- - 🌱 I’m currently working on end-to-end Machine Learning and GPU Computing -->
 <!-- - 😄 Pronouns: He/Him/His--->
 - 🔭 Reading about MLSys this year and writing blogs for the same
 - 📫 Read a research paper with me everyday about NLP and Computer Vision
@@ -46,9 +46,9 @@
 - 🤔 Started learning Japanese and German
 - 💬 Ask me about ML, Computer Vision (NeRFs, GANs, ViTs, CNNs) and Natural Language Processing (GPT3.5, Instruct Tuning, LLMs)
 - ⚡ Fun fact: Sunset on Mars appears to be Blue rather than Yellowish-Red at Earth
-- 🥅 2024 Goals:
+- 🥅 2025 Goals:
    - Buy a Telescope
-   - Get your own office desktop setup with room for Astrophotography
+   - Work from around the World
 <!-- - Reading a Paper from MLSys conference and working on Python basics daily for 2023 -->
 
 <!-- I'm an Astronomy Lover and can talk for a day about Astronomy with anyone who is interested in the field,, Learn as much as possible about Machine Learning in the domain of Computer Vision, and Signal processing to apply this knowledge in Astronomy -->
