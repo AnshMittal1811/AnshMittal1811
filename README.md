@@ -54,8 +54,6 @@
 <!-- I'm an Astronomy Lover and can talk for a day about Astronomy with anyone who is interested in the field,, Learn as much as possible about Machine Learning in the domain of Computer Vision, and Signal processing to apply this knowledge in Astronomy -->
 <!-- - ⚡ Current obsession: I love to read and learn about all things sci-tech related, with my current obsession being Black holes and singularities, and using Neural Radiance for different views from satellites.
  -->
- <!-- - 📫 How to reach me: +1 2135739188 -->
-
 
 ## 🧰 Languages, Packages, Developer Tools
 
@@ -182,9 +180,9 @@
  -->
  
  ## GitHub Streak and Stats Card
-<!--- ![GitHub Streak Card](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact) (https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true )  ![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)  ](https://git.io/streak-stats)  
+<!--- ![GitHub Streak Card](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact) (https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true )  ![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)  ](https://git.io/streak-stats)   ---> 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true) | ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact&include_all_commits=true&show=reviews,discussions_started,discussions_answered) | 
-|:------------------------:|:------------------------:|  --->
+|:------------------------:|:------------------------:|
 
 
 ## Leetcode and Top Contribution Repo
